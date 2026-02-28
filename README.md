@@ -1,28 +1,33 @@
-# FLACCO GAMES HUB 🎮
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flacco Games Hub</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+        h1 {
+            color: lime;
+            margin-top: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            background: red;
+            color: white;
+            border: none;
+            font-size: 18px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
 
-Welcome to the official repository of **FLACCO GAMES HUB**.
+    <h1>🎮 Welcome to Flacco Games Hub 🎮</h1>
+    <p>Best online games loading soon...</p>
+    <button onclick="alert('Game Coming Soon!')">Play Now</button>
 
-Your trusted platform to download Android and PC games easily and safely.
-
----
-
-## 🔥 Features
-- 📱 Android games
-- 💻 PC games
-- ⚡ Fast and secure download links
-- 🌍 Easy navigation
-
----
-
-## 📌 About The Project
-FLACCO GAMES HUB is a website designed to provide gamers with easy access to trending and classic games for both mobile and PC platforms.
-
----
-
-## 🌐 Website
-Coming soon...
-
----
-
-## 👤 Owner
-Developed and managed by **Flacco Malume**
+</body>
+</html>
